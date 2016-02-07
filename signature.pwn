@@ -1,6 +1,6 @@
 //------------------------------------------------
 /*
-	GAdmin System (gadmin.pwn)
+	Signature System (signature.pwn)
 	* A call of duty styleed signature system for SAMP (using some textdraws)
 	* Two commands: /mysignature (/mysign), /signature (/sign)
 
